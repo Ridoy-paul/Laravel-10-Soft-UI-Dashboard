@@ -132,45 +132,45 @@
                     </a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link " href="https://www.creative-tim.com/learning-lab/bootstrap/navs/soft-ui-dashboard"
+                    <a class="nav-link" href="https://www.creative-tim.com/learning-lab/bootstrap/navs/soft-ui-dashboard"
                         target="_blank">
                         <span class="sidenav-mini-icon"> N </span>
                         <span class="sidenav-normal"> Navs </span>
                     </a>
                 </li>
-                <li class="nav-item ">
-                    <a class="nav-link " href="https://www.creative-tim.com/learning-lab/bootstrap/navbar/soft-ui-dashboard"
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.creative-tim.com/learning-lab/bootstrap/navbar/soft-ui-dashboard"
                         target="_blank">
                         <span class="sidenav-mini-icon"> N </span>
                         <span class="sidenav-normal"> Navbar </span>
                     </a>
                 </li>
-                <li class="nav-item ">
-                    <a class="nav-link "
+                <li class="nav-item">
+                    <a class="nav-link"
                         href="https://www.creative-tim.com/learning-lab/bootstrap/pagination/soft-ui-dashboard"
                         target="_blank">
                         <span class="sidenav-mini-icon"> P </span>
                         <span class="sidenav-normal"> Pagination </span>
                     </a>
                 </li>
-                <li class="nav-item ">
-                    <a class="nav-link "
+                <li class="nav-item">
+                    <a class="nav-link"
                         href="https://www.creative-tim.com/learning-lab/bootstrap/popovers/soft-ui-dashboard"
                         target="_blank">
                         <span class="sidenav-mini-icon"> P </span>
                         <span class="sidenav-normal"> Popovers </span>
                     </a>
                 </li>
-                <li class="nav-item ">
-                    <a class="nav-link "
+                <li class="nav-item">
+                    <a class="nav-link"
                         href="https://www.creative-tim.com/learning-lab/bootstrap/progress/soft-ui-dashboard"
                         target="_blank">
                         <span class="sidenav-mini-icon"> P </span>
                         <span class="sidenav-normal"> Progress </span>
                     </a>
                 </li>
-                <li class="nav-item ">
-                    <a class="nav-link "
+                <li class="nav-item">
+                    <a class="nav-link"
                         href="https://www.creative-tim.com/learning-lab/bootstrap/spinners/soft-ui-dashboard"
                         target="_blank">
                         <span class="sidenav-mini-icon"> S </span>
